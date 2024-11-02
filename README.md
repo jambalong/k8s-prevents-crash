@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/dummy-flask-website.git
+git clone https://github.com/jambalong/dummy-flask-website.git
 cd dummy-flask-website
 ```
 
